@@ -7,6 +7,6 @@
 - [bai tap 2](https://www.jdoodle.com/embed/v0/5GCp)
 - [bai tap 3](https://www.jdoodle.com/embed/v0/5GCq)
 - [bai tap 4](https://www.jdoodle.com/embed/v0/5GCs)
+
 - [baitap cuon so tay](https://www.jdoodle.com/iembed/v0/B64)
-## if else
-- [baitap1  hien thi chan le](https://www.jdoodle.com/iembed/v0/B5Z)
+
