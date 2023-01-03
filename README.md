@@ -1,5 +1,5 @@
 # LAP-TRINH-C
-## Bai2 : Cac cau lenh don
+## Bai 2 : Cac cau lenh don
 - [bai tap 1](https://www.jdoodle.com/embed/v0/5GCj)
 - [bai tap 2](https://www.jdoodle.com/embed/v0/5GCl)
 ## Bai 3 : cau lenh re nhanh
