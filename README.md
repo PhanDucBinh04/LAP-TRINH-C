@@ -11,4 +11,4 @@
 - [baitap cuon so tay](https://www.jdoodle.com/iembed/v0/B64)
 ## bai 4 : Cau lenh lap
 - [bai tap 1](https://www.jdoodle.com/a/5H2n)
-- [bai tao 2](https://www.jdoodle.com/a/5HLl)
+- [bai tap 2](https://www.jdoodle.com/a/5HLl)
