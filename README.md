@@ -12,5 +12,5 @@
 ## bai 4 : Cau lenh lap
 - [bai tap 1](https://www.jdoodle.com/a/5H2n)
 - [bai tap 2](https://www.jdoodle.com/a/5HLl)
-## bai 5 ; ham
+## bai 5 : ham
 - [bai tap1](https://www.jdoodle.com/a/5HLr)
