@@ -14,3 +14,5 @@
 - [bai tap 2](https://www.jdoodle.com/a/5HLl)
 ## bai 5 : ham
 - [bai tap1](https://www.jdoodle.com/a/5HLr)
+## bt 20/12/2022
+- [btvn](https://www.jdoodle.com/c-online-compiler/)
