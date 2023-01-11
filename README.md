@@ -8,11 +8,12 @@
 - [bai tap 3](https://www.jdoodle.com/a/5GCq)
 - [bai tap 4](https://www.jdoodle.com/a/5GCs)
 
-- [baitap cuon so tay](https://www.jdoodle.com/iembed/v0/B64)
 ## bai 4 : Cau lenh lap
 - [bai tap 1](https://www.jdoodle.com/a/5H2n)
 - [bai tap 2](https://www.jdoodle.com/a/5HLl)
+
 ## bai 5 : ham
 - [bai tap1](https://www.jdoodle.com/a/5HLr)
+
 ## bt 20/12/2022
 - [btvn](https://www.jdoodle.com/c-online-compiler/)
